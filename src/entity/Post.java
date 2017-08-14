@@ -32,6 +32,7 @@ public class Post {
 	}
 	public void setLikes(int likes) {
 		this.likes = likes;
+		
 	} 
 
 	

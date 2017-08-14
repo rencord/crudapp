@@ -12,6 +12,7 @@ public class User {
 	private ArrayList<Post> posts;
 	private ArrayList<Comment> comments; 
 	
+	
 	public User(String Name, String Surname, String Email, Date Birthday, Date Signupdate ){
 		name= Name;
 		surname = Surname;
